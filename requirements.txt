@@ -1,0 +1,16 @@
+deepeval
+pandas
+python-dotenv
+
+langchain
+langchain-community
+
+sentence-transformers
+
+faiss-cpu
+
+rank-bm25
+
+Langchain_ollama
+
+tqdm
